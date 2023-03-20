@@ -7,11 +7,9 @@
 - JAVA
 - Python
 
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black">
-
-<br/>
-<br/>
+<div align=center>
+  
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black">
+  
+  </div>
